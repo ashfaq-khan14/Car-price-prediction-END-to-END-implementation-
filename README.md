@@ -64,6 +64,8 @@ Sure, let's expand the README with additional sections:
 ---
 
 # Car Price Prediction
+![image](https://github.com/ashfaq-khan14/Car-price-prediction-END-to-END-implementation-/assets/120010803/bdbe10c9-1e2a-474a-8985-808e514d706a)
+
 
 ## Overview
 This project aims to predict the prices of cars based on various features such as brand, model, mileage, year of manufacture, and engine size. By leveraging machine learning algorithms, the model can provide accurate estimations of car prices, assisting both buyers and sellers in making informed decisions.

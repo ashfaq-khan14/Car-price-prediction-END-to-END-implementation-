@@ -64,7 +64,8 @@ Sure, let's expand the README with additional sections:
 ---
 
 # Car Price Prediction
-![image](https://github.com/ashfaq-khan14/Car-price-prediction-END-to-END-implementation-/assets/120010803/bdbe10c9-1e2a-474a-8985-808e514d706a)
+  -   ![WhatsApp Image 2024-02-28 at 20 38 32_4958eefc](https://github.com/ashfaq-khan14/Car-price-prediction-END-to-END-implementation-/assets/120010803/fcccb952-79e4-4530-bbc1-bc3dedb6ce73)
+
 
 
 ## Overview
